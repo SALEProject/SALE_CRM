@@ -1,0 +1,10 @@
+Thu, 12 Feb 2015 14:21:21 +0200 [UpgradeWizard] - setting session variables...
+Thu, 12 Feb 2015 14:21:21 +0200 [UpgradeWizard] - -----------------------------------------------------------------------------
+Thu, 12 Feb 2015 14:21:21 +0200 [UpgradeWizard] - Upgrade started. At start.php
+Thu, 12 Feb 2015 14:21:21 +0200 [UpgradeWizard] - at unlinkUWTempFiles()
+Thu, 12 Feb 2015 14:21:21 +0200 [UpgradeWizard] - finished!
+Thu, 12 Feb 2015 14:21:21 +0200 [UpgradeWizard] - resetting $_SESSION
+Thu, 12 Feb 2015 14:21:28 +0200 [UpgradeWizard] - setting session variables...
+Thu, 12 Feb 2015 14:21:28 +0200 [UpgradeWizard] - [At systemCheck.php]
+Thu, 12 Feb 2015 14:21:28 +0200 [UpgradeWizard] - Starting file permission check...
+Thu, 12 Feb 2015 14:21:44 +0200 [UpgradeWizard] - File [/var/www/html/synchrony_crm/patchBRM_20140401/syncrony_crm/langBRM/SugarCRM-5.5.1_langPack_RO-2014-03.zip] not writable - saving for display
